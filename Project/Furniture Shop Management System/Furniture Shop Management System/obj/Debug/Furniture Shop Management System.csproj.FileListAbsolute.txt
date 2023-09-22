@@ -1,0 +1,40 @@
+C:\Users\user\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\bin\Debug\Furniture Shop Management System.exe.config
+C:\Users\user\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\bin\Debug\Furniture Shop Management System.exe
+C:\Users\user\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\bin\Debug\Furniture Shop Management System.pdb
+C:\Users\user\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\obj\Debug\Furniture Shop Management System.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\obj\Debug\Furniture_Shop_Management_System.frmLogin.resources
+C:\Users\user\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\obj\Debug\Furniture_Shop_Management_System.Properties.Resources.resources
+C:\Users\user\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\obj\Debug\Furniture Shop Management System.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\obj\Debug\Furniture Shop Management System.exe
+C:\Users\user\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\obj\Debug\Furniture Shop Management System.pdb
+C:\Users\user\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\obj\Debug\Furniture_Shop_Management_System.frmMDIHomePage.resources
+C:\Users\user\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\obj\Debug\Furniture_Shop_Management_System.frmItems.resources
+C:\Users\user\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\obj\Debug\Furniture_Shop_Management_System.frmPurchaseDetails.resources
+C:\Users\user\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\obj\Debug\Furniture_Shop_Management_System.frmStock.resources
+C:\Users\user\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\obj\Debug\Furniture_Shop_Management_System.frmEmployee.resources
+C:\Users\user\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\obj\Debug\Furniture_Shop_Management_System.frmBilling.resources
+C:\Users\user\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\obj\Debug\Furniture_Shop_Management_System.frmEmpDetails.resources
+C:\Users\user\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\bin\Debug\Database1.mdf
+C:\Users\user\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\bin\Debug\Database1_log.ldf
+C:\Users\user\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\obj\Debug\Furniture_Shop_Management_System.Form2.resources
+C:\Users\user\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\obj\Debug\Furniture_Shop_Management_System.frmBuying_Selling.resources
+C:\Users\Anjala\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\bin\Debug\Furniture Shop Management System.exe.config
+C:\Users\Anjala\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\obj\Debug\Furniture Shop Management System.exe
+C:\Users\Anjala\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\obj\Debug\Furniture Shop Management System.pdb
+C:\Users\Anjala\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\bin\Debug\Database1.mdf
+C:\Users\Anjala\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\bin\Debug\Database1_log.ldf
+C:\Users\Anjala\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\bin\Debug\Furniture Shop Management System.exe
+C:\Users\Anjala\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\bin\Debug\Furniture Shop Management System.pdb
+C:\Users\Anjala\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\obj\Debug\Furniture Shop Management System.csprojResolveAssemblyReference.cache
+C:\Users\Anjala\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\obj\Debug\Furniture_Shop_Management_System.frmEmpDetails.resources
+C:\Users\Anjala\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\obj\Debug\Furniture_Shop_Management_System.frmEmployee.resources
+C:\Users\Anjala\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\obj\Debug\Furniture_Shop_Management_System.frmBilling.resources
+C:\Users\Anjala\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\obj\Debug\Furniture_Shop_Management_System.Form2.resources
+C:\Users\Anjala\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\obj\Debug\Furniture_Shop_Management_System.frmMDIHomePage.resources
+C:\Users\Anjala\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\obj\Debug\Furniture_Shop_Management_System.frmLogin.resources
+C:\Users\Anjala\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\obj\Debug\Furniture_Shop_Management_System.frmBuying_Selling.resources
+C:\Users\Anjala\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\obj\Debug\Furniture_Shop_Management_System.frmItems.resources
+C:\Users\Anjala\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\obj\Debug\Furniture_Shop_Management_System.frmPurchaseDetails.resources
+C:\Users\Anjala\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\obj\Debug\Furniture_Shop_Management_System.Properties.Resources.resources
+C:\Users\Anjala\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\obj\Debug\Furniture_Shop_Management_System.frmStock.resources
+C:\Users\Anjala\Desktop\Project\Furniture Shop Management System\Furniture Shop Management System\obj\Debug\Furniture Shop Management System.csproj.GenerateResource.Cache
